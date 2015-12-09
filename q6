@@ -1,0 +1,4 @@
+text=raw_input("Enter a String: ")
+print text.count("an")
+
+# by Muthuramalingam D
